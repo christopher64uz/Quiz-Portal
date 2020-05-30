@@ -1,0 +1,32 @@
+body {
+    font: 14px sans-serif;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 350px;
+}
+
+#quiz {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 600px;
+}
+
+.question{
+    font-weight: 600;
+}
+
+.answers {
+    margin-bottom: 20px;
+}
+
+.answers label{
+    display: block;
+}
+
+#submit {
+    display: block;
+    margin: 0 auto;
+}
